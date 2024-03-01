@@ -2,7 +2,7 @@
 ## Teste técnico de processo seletivo (frontend Node.js)
 Tecnologias usadas:
 
-- Next.js ()
+- Next.js (14)
 
 ### Getting started
 
